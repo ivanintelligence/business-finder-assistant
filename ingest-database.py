@@ -11,7 +11,7 @@ from typing import Optional
 DATA_PATH    = "data"         # folder containing one or more CSVs
 CHROMA_PATH  = "chroma_db"
 COLLECTION   = "example_collection"
-MANIFEST_CSV = "ingest_manifest.csv"
+MANIFEST_CSV = "ingest-manifest.csv"
 
 # ----------------- Tuning knobs -----------------
 MAX_ROWS_TOTAL  = 100_000     # hard cap
